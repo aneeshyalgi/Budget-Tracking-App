@@ -7,7 +7,7 @@ Digital Wallet (Budget-Tracking-App) makes tracking expenses simple and straight
 <img width="200" alt="portfolio_view" src="assets/Screenshot_20200810-162925.png"> <img width="200" alt="portfolio_view" src="assets/Screenshot_20200810-162956.png">
 <br>
 <br>
-<img width="200" alt="portfolio_view" src="assets/Screenshot_20200810-154836.png"> <img width="200" alt="portfolio_view" src="assets/Screenshot_20200810-154900.png">
+<img width="200" alt="portfolio_view" src="assets/Screenshot_20200810-154836.png"> <img width="200" alt="portfolio_view" src="assets/Screenshot_20200810-212952.png">
 <br>
 <br>
-<img width="200" alt="portfolio_view" src="assets/Screenshot_20200810-154826.png">
+<img width="200" alt="portfolio_view" src="assets/Screenshot_20200810-212921.png">
