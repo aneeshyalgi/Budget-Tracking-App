@@ -33,7 +33,6 @@ class _mainAppCodeState extends State<mainAppCode> {
   final PageStorageBucket bucket = PageStorageBucket();
   Widget currentScreen = Dashboard();
 
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
