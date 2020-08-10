@@ -68,7 +68,7 @@ class _mainAppCodeState extends State<mainAppCode> {
                     onPressed: () {
                       setState(() {
                         currentScreen =
-                            Dashboard(); // if user taps on this dashboard tab will be active
+                            Dashboard(); 
                         currentTab = 0;
                       });
                     },
@@ -95,7 +95,7 @@ class _mainAppCodeState extends State<mainAppCode> {
                     onPressed: () {
                       setState(() {
                         currentScreen =
-                            Spends(); // if user taps on this dashboard tab will be active
+                            Spends(); 
                         currentTab = 1;
                       });
                     },
@@ -120,9 +120,6 @@ class _mainAppCodeState extends State<mainAppCode> {
                   )
                 ],
               ),
-
-              // Right Tab bar icons
-
               Row(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
@@ -131,7 +128,7 @@ class _mainAppCodeState extends State<mainAppCode> {
                     onPressed: () {
                       setState(() {
                         currentScreen =
-                            Notifications(); // if user taps on this dashboard tab will be active
+                            Notifications(); 
                         currentTab = 2;
                       });
                     },
@@ -158,7 +155,7 @@ class _mainAppCodeState extends State<mainAppCode> {
                     onPressed: () {
                       setState(() {
                         currentScreen =
-                            settings(); // if user taps on this dashboard tab will be active
+                            settings(); 
                         currentTab = 3;
                       });
                     },
