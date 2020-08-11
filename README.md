@@ -1,5 +1,5 @@
-# Digital Wallet (Home-Budget-Tracking-App)
-Digital Wallet (Home-Budget-Tracking-App) makes tracking expenses simple and straightforward.
+# Digital Wallet (Home-Expense-Tracking-App)
+Digital Wallet (Home-Expense-Tracking-App) makes tracking expenses simple and straightforward.
 
 App Download Link: https://appdistribution.firebase.dev/i/cb59a8c00d9f6675
 
